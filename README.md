@@ -2,8 +2,6 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-`https://www.eztokenpass.com/static/LICENSE.html`
-
 TokenPass available :
 
 - [🔗 Blockchain](#blockchain)
@@ -39,4 +37,5 @@ Eztokenpass provides an NFT validation ticketing solution and also provides rich
 - [Openmask](https://www.openmask.app/)
 - [Tonkeeper](https://tonkeeper.com/)
 - [Tonhub](https://tonhub.com/)
+
 
