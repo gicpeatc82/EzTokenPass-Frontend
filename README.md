@@ -4,9 +4,6 @@
 
 `https://www.eztokenpass.com/static/LICENSE.html`
 
-**Product Link**:  
-[![TokenPass](https://www.eztokenpass.com/_next/static/media/logo_01.ef33e7c2.png?w=256&q=75)](https://www.eztokenpass.com/)
-
 TokenPass available :
 
 - [🔗 Blockchain](#blockchain)
@@ -42,3 +39,4 @@ Eztokenpass provides an NFT validation ticketing solution and also provides rich
 - [Openmask](https://www.openmask.app/)
 - [Tonkeeper](https://tonkeeper.com/)
 - [Tonhub](https://tonhub.com/)
+
